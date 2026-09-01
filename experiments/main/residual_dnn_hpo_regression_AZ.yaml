@@ -13,8 +13,8 @@ sampling:
 
 # Data settings
 data:
-  illness: ["AZ"]
-  p_clump: [0.01]
+  illness: ["SCZ", "ADHD", "BIP", "OCD", "MDD", "AZ"]
+  p_clump: [0.0001, 0.001, 0.01]
   distribution: ["low"]
   target: Z
   test_size: 0.2
