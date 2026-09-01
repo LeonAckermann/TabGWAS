@@ -1,6 +1,8 @@
 # TabGWAS
 
-Code for "Nonlinearities in genome-wide association studies? XGBoost and MLPs not better than Ridge" — comparing linear and non-linear tabular ML models (Linear, Lasso, Ridge, XGBoost, a regularized DNN, TabPFN) at predicting psychiatric-disease GWAS summary statistics from brain-MRI GWAS summary statistics.
+Code for the ICBINB @ NeurIPS 2026 workshop submission
+"When Non-linearity Doesn't Pay Off on GWAS Data."
+Author information omitted for double-blind review.
 
 ## Setup
 
