@@ -37,7 +37,7 @@ model:
 # Hyperparameter optimization settings
 hpo:
   run: true
-  n_trials: 5
+  n_trials: 30
   outer_cv: 5
   inner_cv: 5
   search_space:
